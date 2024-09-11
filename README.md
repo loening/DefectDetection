@@ -31,3 +31,14 @@ python AdelaiDet/demo/demo.py \
 ```
 
 In the above commands, the model weight file `blendmask_r101_dcni3_5x.pth` and the test input file `input.jpg` are evaluated.
+
+## Citation
+If you use this project in your research, please cite this project.
+```
+@article{Hybrid2024,
+  title   = {Hybrid Defect Detection for Cell Phone Back Covers: Fusing Deep Learning and Traditional Image Processing Techniques},
+  author  = {Dening Luo and Ke Liu and Daofu Zong},
+  journal= {},
+  year={2024}
+}
+```
